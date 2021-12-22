@@ -1,0 +1,10 @@
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(1, 'Greensboro', 'Hill Farmstead Brewery', 'USA', 3.5, 0);
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(2, 'Maplewood', 'Side Project Brewing', 'USA', 2, 0);
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(3, 'Santa Rosa', 'Russian River Brewing Company', 'JAPON', 18, 5);
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(4, 'Boston', 'Trillium Brewing Company', 'GERMAN', 5, 1);
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(5, 'Charlton', 'Tree House Brewing Company', 'GERMAN', 4.99, 1);
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(6, 'Munster', 'Three Floyds Brewing Company', 'JAPON', 22.50, 5);
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(7, 'Grand Rapids', 'Founders Brewing Company (Mahou San Miguel)', 'RUSS', 1.98, 4);
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(8, 'Manchester', 'Cloudwater Brew Co', 'GBR', 2.03, 2);
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(9, 'San Diego', 'AleSmith Brewing Company', 'ESTONIA', 5.36, 1);
+INSERT INTO beers (id, name, brewery, country, price, currency) VALUES(10, 'Ardmore', 'Tired Hands Brewing Company', 'GERMAN', 6.5, 1);
